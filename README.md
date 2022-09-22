@@ -1,1 +1,7 @@
-alx low level programming projects
+/*alx low level programming projects*/
+#include <stdio.h>
+
+void reset_to_98(int *n)
+{
+  *n = 98;
+}
